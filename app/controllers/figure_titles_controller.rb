@@ -1,3 +1,0 @@
-class FigureTtilesController < ApplicationController
-
-end
