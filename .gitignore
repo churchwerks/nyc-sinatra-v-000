@@ -35,4 +35,4 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-db/schema.rb
+# db/schema.rb
